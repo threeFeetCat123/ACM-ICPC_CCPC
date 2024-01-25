@@ -1,4 +1,5 @@
 # ACM黑话/常用术语/其他整理
+ **XCPX**：代指ICPC(International Collegiate Programming Contest)和CCPC(China Collegiate Programming Contest)，因为两者只有首字母不同，所以为了方便，用“XXCPC”代替两者。
 
  **WA**：读做“哇”，表示“Wrong Answer”，即答案错误。当选手提交的程序在运行过程中产生了错误的输出结果或者与预期答案不一致时，评测系统
  会返回红色的"wa"作为评判结果。还有“T了”、“ML”、“RE”分别是“Time Limit Exceeded”（程序运行超时）、“Memory Limit Exceed
