@@ -60,8 +60,8 @@
   评价：半平面的板子，有基础、进阶和究极版。<br />
 
   #### 面积：
-https://www.cnblogs.com/tzcwk/p/asr.html#:~:text=%E8%87%AA%E9%80%82%E5%BA%94%E8%BE%9B%E6%99%AE%E6%A3%AE%E7%AE%97%E6%B3%95%EF%BC%88ASR%EF%BC%89
-  评价：自适应辛普森积分求各种面积，非常巧妙。
+https://www.cnblogs.com/tzcwk/p/asr.html#:~:text=%E8%87%AA%E9%80%82%E5%BA%94%E8%BE%9B%E6%99%AE%E6%A3%AE%E7%AE%97%E6%B3%95%EF%BC%88ASR%EF%BC%89<br />
+  评价：自适应辛普森积分求各种面积，非常巧妙。<br />
   
   #### 其他：
   https://blog.csdn.net/u013279723/article/details/106265948<br />
