@@ -12,7 +12,7 @@
   
   ### 字符串：
    我给学弟讲课的PPT：
-   [zfc.pptx](ACM黑话普及.md)
+   [字符串.pptx](zfc.pptx)
 
    #### AC自动机（ACAM）：
    https://www.cnblogs.com/zaza-zt/p/15307182.html<br />
