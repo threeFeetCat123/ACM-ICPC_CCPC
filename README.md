@@ -12,7 +12,18 @@
   ### 常用网站：
   小白入门到入坟：https://oiwiki.com/<br />
   XCPC比赛现场情况：https://board.xcpcio.com/<br />
+  bilibili 博主推荐：董晓算法（真的是一步一步教，怕你学不会）
 
+  ###  数据结构：
+  ####  主席树：
+  https://www.bilibili.com/video/BV1C4411u7rK/?spm_id_from=333.999.0.0&vd_source=1fa56032135655e5fa1213f99fad6a9e
+  评价：博主讲得非常好，学完线段树，可以通过这个无缝衔接到主席树，我就是一天凌晨看完这个视频就悟了。感谢AgOH
+
+  ###  图论：
+  
+  #### 树链剖分：
+  https://www.cnblogs.com/ccjjxx/p/18011471/HPD
+  评价：需要前置知识线段树+dfs序，里面有树剖的概念，以及大量的习题
   
   ### 字符串：
    我给学弟讲课的PPT：
