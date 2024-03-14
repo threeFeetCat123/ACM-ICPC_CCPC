@@ -16,13 +16,13 @@
 
   ###  数据结构：
   ####  主席树：
-  https://www.bilibili.com/video/BV1C4411u7rK/?spm_id_from=333.999.0.0&vd_source=1fa56032135655e5fa1213f99fad6a9e
+  https://www.bilibili.com/video/BV1C4411u7rK/?spm_id_from=333.999.0.0&vd_source=1fa56032135655e5fa1213f99fad6a9e<br />
   评价：博主讲得非常好，学完线段树，可以通过这个无缝衔接到主席树，我就是一天凌晨看完这个视频就悟了。感谢AgOH
 
   ###  图论：
   
   #### 树链剖分：
-  https://www.cnblogs.com/ccjjxx/p/18011471/HPD
+  https://www.cnblogs.com/ccjjxx/p/18011471/HPD<br />
   评价：需要前置知识线段树+dfs序，里面有树剖的概念，以及大量的习题
   
   ### 字符串：
